@@ -74,7 +74,7 @@ const Navbar = () => {
         <Link href={"https://github.com/sandip95-web"}>
           <Image src="/github.png" alt="github-icon" width={24} height={24} />
         </Link>
-        <Link href={"https://fb.com/"}>
+        <Link href={"https://www.facebook.com/sandeep.maharjan.58"}>
           <Image
             src="/facebook.png"
             alt="facebook-icon"
