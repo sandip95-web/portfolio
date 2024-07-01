@@ -24,7 +24,7 @@ const Homepage = () => {
           </h1>
           {/* DESC */}
           <p className="md:text-xl">
-            Welcome to my portfolio! Here, you'll find a showcase of my digital
+            Welcome to my portfolio! Here, you&apos;ll find a showcase of my digital
             creations and design projects. Explore my work and see how I blend
             creativity and innovation to shape the future of digital
             experiences. Thank you for visiting!.
