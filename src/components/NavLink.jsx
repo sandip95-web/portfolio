@@ -6,7 +6,7 @@ import React from "react";
 const NavLink = ({ link }) => {
   
     const pathName=usePathname();
-    console.log(pathName);
+    
 
   return (
     <div>
